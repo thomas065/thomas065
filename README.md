@@ -49,3 +49,4 @@ I'm currently studying for:
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/thomas065/terraformblues" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=thomas065&repo=terraformblues&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/thomas065/GCP-Class_Notes" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=thomas065&repo=GCP-Class_Notes&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
