@@ -4,7 +4,18 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Power Platform Developer | Cloud Security | Terraform | DevSecOps | GCP
 -----------------------------------------------------------------------
 
-After spending my days automating workflows and solving problems in the Power Platform world, I realized what I loved most wasn’t just building apps—it was securing the systems behind them. I’m now on a mission to become a Google Cloud Security Engineer, channeling my love for clean code, curious tinkering, and relational thinking into the world of cloud security. Why the switch? Because coding is great—but coding securely, and collaborating with others to build safe, scalable systems? Even better. My ability to communicate clearly, empathize with users, and connect the technical with the human side of development is exactly what drew me into the security space. Along the way, I’ve been diving into tools like Terraform for infrastructure as code and Kubernetes for container orchestration—both powerful pieces in the cloud security puzzle. I'm currently studying for: Google Associate Cloud Engineer Google Professional Cloud Security Engineer —and loving every lab, CLI prompt, YAML file, and IAM policy along the way.
+After spending my days automating workflows and solving problems in the Power Platform world, I realized what I loved most wasn’t just building apps—it was securing the systems behind them. I’m now on a mission to become a **Google Cloud Security Engineer**, channeling my love for clean code, curious tinkering, and relational thinking into the world of cloud security.
+
+Why the switch? Because coding is great—but coding *securely*, and collaborating with others to build safe, scalable systems? Even better. My ability to communicate clearly, empathize with users, and connect the technical with the human side of development is exactly what drew me into the security space.
+
+Along the way, I’ve been diving into tools like **Terraform** for infrastructure as code and **Kubernetes** for container orchestration—both powerful pieces in the cloud security puzzle.
+
+I'm currently studying for:
+
+- **Google Associate Cloud Engineer**
+- **Google Professional Cloud Security Engineer**
+
+—and loving every lab, CLI prompt, YAML file, and IAM policy along the way.
 
 * 🌍  I'm based in Massachusetts
 * 🖥️  See my portfolio at [Netlify](http://thomasjbell.netlify.app/)
