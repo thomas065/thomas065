@@ -4,7 +4,9 @@
 ### ☁️ Cloud Security Engineer in Progress  
 **GCP • Terraform • Kubernetes • DevSecOps**
 
+```md
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Securing%2BCloud%2BEnvironments...;Automating%2BInfrastructure...;Kubernetes%2Bin%2BMotion...;Future%2BGCP%2BSecurity%2BEngineer...)](https://git.io/typing-svg)
+```
 
 ---
 
