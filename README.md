@@ -1,54 +1,30 @@
 ````markdown
-<!-- ======================= -->
-<!-- 🚀 HERO SECTION -->
-<!-- ======================= -->
+# ⚡ Thomas Bell
 
-<h1 align="center">⚡ Thomas Bell ⚡</h1>
+### ☁️ Cloud Security Engineer in Progress  
+**GCP • Terraform • Kubernetes • DevSecOps**
 
-<h3 align="center">
-☁️ Cloud Security Engineer in Progress | GCP • Terraform • Kubernetes • DevSecOps
-</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Securing+Cloud+Environments...;Automating+Infrastructure...;Kubernetes+in+Motion...;Future+GCP+Security+Engineer..." />
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Cloud%20Security%20Control%20Plane&fontSize=35&fontColor=ffffff&animation=fadeIn" />
-</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Securing+Cloud+Environments...;Automating+Infrastructure...;Kubernetes+in+Motion...;Future+GCP+Security+Engineer...)
 
 ---
-
-<!-- ======================= -->
-<!-- 🧠 ABOUT -->
-<!-- ======================= -->
 
 ## 🧠 Identity
 
 ```yaml
 name: Thomas Bell
-role: Cloud Security Engineer (In Progress)
 location: Massachusetts, USA
+focus: Cloud Security Engineering (GCP)
 
-specialties:
-  - Cloud Security (GCP)
-  - Infrastructure as Code (Terraform)
-  - Container Security (Kubernetes)
-  - DevSecOps Automation
+learning:
+  - Terraform (Infrastructure as Code)
+  - Kubernetes (Container Security)
+  - GCP IAM & Security Architecture
 
-mindset: >
-  Automate everything.
-  Secure by default.
-  Scale without fear.
+mission: >
+  Build secure, scalable, automated cloud systems
 ````
 
 ---
-
-<!-- ======================= -->
-
-<!-- 🚀 CURRENT OPS -->
-
-<!-- ======================= -->
 
 ## 🚀 Current Operations
 
@@ -57,64 +33,34 @@ mindset: >
 
 [✔] Learning Terraform modules
 [✔] Deploying GCP labs
-[✔] Studying IAM + Security Architecture
+[✔] Studying IAM policies
 [✔] Breaking & fixing Kubernetes configs
 [➜] Preparing for PCA Certification...
 ```
 
 ---
 
-<!-- ======================= -->
-
-<!-- 🎯 CERT TRACKER -->
-
-<!-- ======================= -->
-
 ## 🎯 Certification Pipeline
 
-| Certification                               | Status         |
-| ------------------------------------------- | -------------- |
-| Google Associate Cloud Engineer             | 🟡 In Progress |
-| Google Professional Cloud Security Engineer | 🔵 Loading...  |
+* 🟡 Google Associate Cloud Engineer (In Progress)
+* 🔵 Google Professional Cloud Security Engineer (Next)
 
 ---
 
-<!-- ======================= -->
+## ⚙️ Tech Stack
 
-<!-- ⚙️ TECH STACK -->
-
-<!-- ======================= -->
-
-## ⚙️ Tech Arsenal
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=gcp,terraform,kubernetes,docker,linux,git,github,vscode,postgres,cs,html,css" />
-</p>
+![Skills](https://skillicons.dev/icons?i=gcp,terraform,kubernetes,docker,linux,git,github,vscode,postgres,cs,html,css)
 
 ---
 
-<!-- ======================= -->
+## 🛰️ Cloud & DevSecOps
 
-<!-- 🛰️ CLOUD BADGES -->
-
-<!-- ======================= -->
-
-## 🛰️ Cloud + DevSecOps
-
-<p align="center">
-<img src="https://img.shields.io/badge/GCP-Security-blue?style=for-the-badge&logo=googlecloud"/>
-<img src="https://img.shields.io/badge/Terraform-IaC-623CE4?style=for-the-badge&logo=terraform"/>
-<img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes"/>
-<img src="https://img.shields.io/badge/DevSecOps-Automation-black?style=for-the-badge&logo=githubactions"/>
-</p>
+![GCP](https://img.shields.io/badge/GCP-Security-blue?style=for-the-badge\&logo=googlecloud)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-623CE4?style=for-the-badge\&logo=terraform)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge\&logo=kubernetes)
+![DevSecOps](https://img.shields.io/badge/DevSecOps-Automation-black?style=for-the-badge\&logo=githubactions)
 
 ---
-
-<!-- ======================= -->
-
-<!-- 🤖 AUTOMATION VISUAL -->
-
-<!-- ======================= -->
 
 ## 🤖 Automation Pipeline
 
@@ -130,55 +76,23 @@ flowchart LR
 
 ---
 
-<!-- ======================= -->
+## 📊 GitHub Stats
 
-<!-- 📊 GITHUB STATS -->
-
-<!-- ======================= -->
-
-## 📊 GitHub Command Center
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=thomas065&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=thomas065&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thomas065&theme=tokyo-night&hide_border=true"/>
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=thomas065\&show_icons=true\&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=thomas065\&theme=tokyonight)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=thomas065\&theme=tokyo-night)
 
 ---
 
-<!-- ======================= -->
+## 🚀 Featured Projects
 
-<!-- 🚀 FEATURED PROJECTS -->
+[![Terraform Blues](https://github-readme-stats.vercel.app/api/pin/?username=thomas065\&repo=terraformblues\&theme=tokyonight)](https://github.com/thomas065/terraformblues)
 
-<!-- ======================= -->
-
-## 🚀 Featured Deployments
-
-<p align="center">
-<a href="https://github.com/thomas065/terraformblues">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=thomas065&repo=terraformblues&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/thomas065/GCP-Class_Notes">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=thomas065&repo=GCP-Class_Notes&theme=tokyonight&hide_border=true"/>
-</a>
-</p>
+[![GCP Notes](https://github-readme-stats.vercel.app/api/pin/?username=thomas065\&repo=GCP-Class_Notes\&theme=tokyonight)](https://github.com/thomas065/GCP-Class_Notes)
 
 ---
 
-<!-- ======================= -->
-
-<!-- 📡 LIVE STATUS -->
-
-<!-- ======================= -->
-
-## 📡 Live System Status
+## 📡 System Status
 
 ```diff
 + Cloud Security Mode: ACTIVE
@@ -189,52 +103,20 @@ flowchart LR
 
 ---
 
-<!-- ======================= -->
-
-<!-- 🌐 CONNECT -->
-
-<!-- ======================= -->
-
 ## 🌐 Connect
 
-<p align="center">
-<a href="http://thomasjbell.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=netlify"/>
-</a>
-
-<a href="mailto:thomasjbell065@gmail.com">
-<img src="https://img.shields.io/badge/Email-Let's_Talk-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://www.linkedin.com/in/thomasjbell065">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-</p>
+* 🌍 Portfolio: http://thomasjbell.netlify.app/
+* ✉️ Email: [thomasjbell065@gmail.com](mailto:thomasjbell065@gmail.com)
+* 💼 LinkedIn: https://www.linkedin.com/in/thomasjbell065
 
 ---
 
-<!-- ======================= -->
-
-<!-- ⚡ SECRET -->
-
-<!-- ======================= -->
-
-## ⚡ System Secret
+## ⚡ Fun Fact
 
 ```bash
 > echo $SECRET_WORD
 SHAZZAM ⚡
 ```
 
----
-
-<!-- ======================= -->
-
-<!-- 🌊 FOOTER -->
-
-<!-- ======================= -->
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
-</p>
+```
 ```
