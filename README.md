@@ -48,7 +48,9 @@ mission: >
 
 ## ⚙️ Tech Stack
 
-![Skills](https://skillicons.dev/icons?i=gcp,terraform,kubernetes,docker,git,github,vscode,bots,html,bootstrap&perline=5)
+![Skills](https://skillicons.dev/icons?i=gcp,terraform)
+![Skills](https://skillicons.dev/icons?i=kubernetes,docker,git)
+![Skills](https://skillicons.dev/icons?i=github,vscode,bots,html,bootstrap)
 
 ---
 
