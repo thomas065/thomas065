@@ -1,4 +1,3 @@
-````markdown
 # ⚡ Thomas Bell
 
 ### ☁️ Cloud Security Engineer in Progress  
