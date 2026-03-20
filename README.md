@@ -1,4 +1,4 @@
-# ⚡ Thomas Bell
+# ⚡ Hi 👋, I'm Thomas Bell ⚡
 
 ### ☁️ Cloud Security Engineer in Progress  
 **GCP • Terraform • Kubernetes • DevSecOps**
